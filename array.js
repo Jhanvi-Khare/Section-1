@@ -1,7 +1,7 @@
 const myarr =['xyz','456',6789,true,undefined];
 
 console.log(myarr);
-console.log(Array.isArray(myarr));
+console.log(Array.isArray(myarr)); 
 
 const movies = ['Godzilla','Deadpool','Dark Knight','Spiderman','Animal'];
 
